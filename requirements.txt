@@ -1,0 +1,17 @@
+Jinja2==2.11.2
+numpy==1.19.2
+scikit-learn==0.21.3
+scipy==1.5.2
+spacy==2.3.5
+tensorboard==2.3.0
+torch==1.6.0
+torch-cluster==1.5.7
+torch-geometric==1.6.1
+torch-scatter==2.0.5
+torch-sparse==0.6.7
+torch-spline-conv==1.2.0
+TorchSnooper==0.8
+tqdm==4.48.2
+transformers==3.1.0
+pynvml==8.0.4
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
